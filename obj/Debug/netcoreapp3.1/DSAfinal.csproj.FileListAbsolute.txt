@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\DSAfinal\bin\Debug\netcoreapp3.1\DSAfinal.exe
+C:\Users\Administrator\source\repos\DSAfinal\bin\Debug\netcoreapp3.1\DSAfinal.deps.json
+C:\Users\Administrator\source\repos\DSAfinal\bin\Debug\netcoreapp3.1\DSAfinal.runtimeconfig.json
+C:\Users\Administrator\source\repos\DSAfinal\bin\Debug\netcoreapp3.1\DSAfinal.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\DSAfinal\bin\Debug\netcoreapp3.1\DSAfinal.dll
+C:\Users\Administrator\source\repos\DSAfinal\bin\Debug\netcoreapp3.1\DSAfinal.pdb
+C:\Users\Administrator\source\repos\DSAfinal\obj\Debug\netcoreapp3.1\DSAfinal.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DSAfinal\obj\Debug\netcoreapp3.1\DSAfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DSAfinal\obj\Debug\netcoreapp3.1\DSAfinal.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DSAfinal\obj\Debug\netcoreapp3.1\DSAfinal.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DSAfinal\obj\Debug\netcoreapp3.1\DSAfinal.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DSAfinal\obj\Debug\netcoreapp3.1\DSAfinal.dll
+C:\Users\Administrator\source\repos\DSAfinal\obj\Debug\netcoreapp3.1\DSAfinal.pdb
+C:\Users\Administrator\source\repos\DSAfinal\obj\Debug\netcoreapp3.1\DSAfinal.genruntimeconfig.cache
